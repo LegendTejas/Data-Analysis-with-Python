@@ -1,1 +1,1 @@
-# Data Analysis with Python
+# Project 2: Demographic Data Analyzer
